@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**ChirineAhmad7/ChirineAhmad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                  Hello World, I'am Shirin Ahmad 👋
+                         _______________________________________________________________________________________
 
-Here are some ideas to get you started:
+      About myself:
+   ----------------------------
+  Graduate from Lebanese International University at Commputer Communication Engineering
+  I’m currently working remote in full stack web developer
+  I’m currently learning python in SE Factory
+  Updated with technology in networking and full stack web development
+  Sipping coffee & going to gym are push me to get better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     My Interests:
+  -------------------------------
+  Machine Learning / Deep Learning
+  Data Science / Network Science
+  Full-Stack Web Development
+  Cyper Security Offensive 
+
+     Reach out & connect with me to share & discuss inovative ideas:
+  ------------------------------------------------------------------------------------
+  https://www.linkedin.com/in/chirineahmad
+  https://instagram.com/chirine.ahmad/
+  https://www.hackerrank.com/shirine_ahmad
+  shirine.ahmad@hotmail.com
+  
+      Languages:
+  -----------------------
+  Python , JavaScript , Java , Html ,Css, Php 
+  
+     Tools:
+  ----------------------
+  Visual Studio Code , MySql , Laravel ,githup, ReactJs
